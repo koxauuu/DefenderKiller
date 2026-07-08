@@ -1,8 +1,11 @@
 # DefenderKiller
-
-
 DefenderKiller - софт для удаления/восстановления Windows Defender (Безопасность Windows)
+
 Поддержка операционных систем Windows 10/11 включая последние сборки 26H2
+
+<img width="626" height="808" alt="image" src="https://raw.githubusercontent.com/koxauuu/DefenderKiller/refs/heads/main/screen1.png" />
+
+
 
 Подробная информация в файле ReadMe в архиве
 
