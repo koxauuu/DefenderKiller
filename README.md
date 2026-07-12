@@ -12,26 +12,18 @@
 
 <img width="1366" height="768" alt="image" src="https://raw.githubusercontent.com/koxauuu/DefenderKiller/refs/heads/main/screenshots/scr2.png" />
 
-### Скачать Последнюю версию (Portable ZIP)
-Последняя версия - 16.1
+### Скачать Последнюю версию 
 
-[Github](https://github.com/koxauuu/DefenderKiller/releases/tag/15.4)
-### <table align="center" style="border: none; border-collapse: collapse;">
-  <tbody>
-    <tr>
-      <td align="left" width="33%"><b>Скачать</b></td>
-    </tr>
-    <tr>
-      <td align="left">
-        <a href="https://github.com/MartyFiles/WinClick/releases/download/Release/WinClick.exe">
-          <img src="https://img.shields.io/github/downloads/MartyFiles/WinClick/Release/total?style=for-the-badge&label=16.1%20&color=blue&logo=download">
-        </a>
-</td>
-    </tr>
-  </tbody>
-<table></table>
+[GitHub Релизы](https://github.com/koxauuu/DefenderKiller/releases/)
 
-### j
+[Форум Win 10 Tweaker]()
+
+Последняя версия DK - 16.1
+
+> [!WARNING]
+> Версия на форуме Win 10 Tweaker устарела (15.4), она не является последней версией, поэтому советуем скачать актуальную с GitHub
+
+### Возможности DefenderKiller 
 
 
 
@@ -50,9 +42,15 @@
 
 
 
-### Credits
+### Меценаты проекта DefenderKiller 
 Разработчики:
--  Vlado
--  Eject
--  koxauu
+-  Vlado >>> Основной вклад и логика программы
+-  Eject >>> Программа Unlocker
+-  koxauu >>> Все новые нововведения 
+
+Ютуберы:
+- MartyFiles >>> Вклад в популяризацию DK
+
+А также:
+- Все пользователи DefenderKiller >>> ❤️
 
