@@ -1,16 +1,17 @@
 # DefenderKiller
-DefenderKiller - софт для удаления/восстановления Windows Defender (Безопасность Windows)
+<strong>DefenderKiller</strong> (сокр. <strong>DK</strong>) - софт для удаления/восстановления Windows Defender (Безопасность Windows)
+> [!TIP]
+> hhh
 
-Поддержка операционных систем Windows 10/11 включая последние сборки 26H2
+> [!WARNING]
+> Поддержка операционных систем Windows 10/11 включая последние сборки 26H2
 
-<img width="313" height="404" alt="image" src="https://raw.githubusercontent.com/koxauuu/DefenderKiller/refs/heads/main/screen1.png" />
+<img width="1366" height="768" alt="image" src="https://raw.githubusercontent.com/koxauuu/DefenderKiller/refs/heads/main/screenshots/scr2.png" />
 
-### Скачать Последнюю Legacy версию (Portable ZIP)
-Последняя версия - 15.4 By Vlado
+### Скачать Последнюю версию (Portable ZIP)
+Последняя версия - 16.1
 
 [Github](https://github.com/koxauuu/DefenderKiller/releases/tag/15.4)
-
-[Яндекс диск](https://disk.yandex.ru/d/G_IcVLrpDm6bLA)
 
 ### Скачать Последнюю Модифицированную версию (Portable ZIP)
 Последняя модифицированная версия - 15.4_1 By koxauuu
@@ -19,10 +20,8 @@ DefenderKiller - софт для удаления/восстановления W
 
 
 ### Credits
-Оригинальные разработчики:
+Разработчики:
 -  Vlado
 -  Eject
-  
-Модифированная версия:
 -  koxauu
 
