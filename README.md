@@ -1,11 +1,14 @@
 # DefenderKiller
 <strong>DefenderKiller</strong> (сокр. <strong>DK</strong>) - мощная утилита для удаления/восстановления Windows Defender (Безопасность Windows)
+
 > [!TIP]
-> hhh
+> DK предоставляет пользователям мощный функционал, но не несёт ответственности за ваши действия, пожалуйста будьте аккуратнее при выполнении каких-либо действий через утилиту.
+> 
+> Неопытным пользователям рекомендуется посмотреть обучающие видео ссылка
 
 > [!WARNING]
 > DK имеет поддержку операционных систем Windows 10/11 64-бит, но не поддерживает 32-битные OC,
-> а начиная с версии 16.0 и Windows 7
+> а начиная с версии DK 16.0 не поддерживает и Windows 7
 
 <img width="1366" height="768" alt="image" src="https://raw.githubusercontent.com/koxauuu/DefenderKiller/refs/heads/main/screenshots/scr2.png" />
 
@@ -14,8 +17,7 @@
 
 [Github](https://github.com/koxauuu/DefenderKiller/releases/tag/15.4)
 
-### Скачать Последнюю Модифицированную версию (Portable ZIP)
-Последняя модифицированная версия - 15.4_1 By koxauuu
+### Скачать Последню
 
 [Github] Нет релиза
 
