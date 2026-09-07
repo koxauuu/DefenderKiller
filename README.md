@@ -1,3 +1,6 @@
+README: [RU](https://github.com/koxauuu/DefenderKiller/blob/main/README.md) [EN](https://github.com/koxauuu/DefenderKiller/blob/main/README_EN.md)
+
+
 # DefenderKiller
 <strong>DefenderKiller</strong> (сокр. <strong>DK</strong>) - мощная утилита для удаления/восстановления Windows Defender (Защитник Windows).
 
