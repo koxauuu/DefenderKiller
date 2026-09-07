@@ -1,3 +1,5 @@
+README: [RU]() [EN]()
+
 <strong>DefenderKiller</strong> (<strong>DK</strong>) - powerful utility for remove/recovery Windows Defender.
 
 > [!TIP]
@@ -20,7 +22,7 @@
 Last version DK - 16.1
 
 > [!WARNING]
-> Version on forum Win 10 Tweaker old (15.4), она не является последней версией, поэтому советуем download actual on GitHub.
+> Version on forum Win 10 Tweaker outdated (15.4), It is not the latest version, so we recommend download actual on GitHub.
 
 ### Functions DefenderKiller 
 - Delete Windows Defender
@@ -28,19 +30,19 @@ Last version DK - 16.1
 - Check the status of folders and files
 - Recovery Defender from copy (backup)
 - Delete Security of Windows (Icon in Start) (Maybe not work on 26H2)
-- Скрыть Раздел Безопасность в Параметрах
-- Отключить VBS (Безопасность на основе виртуализации)
-- Удалить папки Защитника из хранилища WinSxS
-- Отключение / Включение Брандмауэра Защитника Windows 
-- Отключение / Включение UAC (Контроль учетных записей)
+- Hide Security Section in Settings 
+- Disable VBS (Virtualization-based security)
+- Delete folders of Defender in storage WinSxS
+- OFF / ON Firewall of Windows Defender
+- OFF / ON UAC (User Account Control)
 
 ### Plan DefenderKiller 
-- Add пункт о Meltdown, Spectre, Downfall
-- Улучшить интерфейс, провести другую сортировку
-- Добавить поддержку старых OC 
-- Fix bug в пункте "Удалить Безопасность Windows (Иконка в пуске) (Может не работать на 26H2)"
-- Fix bug в пункте "Удалить Windows Defender"
-- Add пункт о плашке о небезопасных файлов из интернета
+- Add point Meltdown, Spectre, Downfall
+- Make Gui, carry out sorting
+- Add support for older OC 
+- Fix bug in point "Delete Security of Windows (Icon in Start) (Maybe not work on 26H2)"
+- Fix bug in point "Delete Windows Defender"
+- Add point to disable the banner regarding unsafe files from the Internet
 - Add icon DK
 - Add another languages
 - Do optimization 
