@@ -1,4 +1,4 @@
-<strong>DefenderKiller</strong> (сокр. <strong>DK</strong>) - powerful utility for удаления/восстановления Windows Defender.
+<strong>DefenderKiller</strong> (<strong>DK</strong>) - powerful utility for remove/recovery Windows Defender.
 
 > [!TIP]
 > DK provides users with powerful functionality but assumes no responsibility for your actions; please exercise caution when performing any operations using the utility.
@@ -6,8 +6,8 @@
 > For new users are recommended to watch tutorial video on YouTube. [link](https://youtu.be/telq3iBkybk)
 
 > [!WARNING]
-> DK have support операционных систем Windows 10/11 64-bit, but но не поддерживает 32-bit OC,
-> а start with version DK 16.0 not supported and Windows 7. (В будущем вернётся поддержка старых OC).
+> DK have support operation system Windows 10/11 64-bit, but don't support 32-bit OC,
+> and start with version DK 16.0 not supported Windows 7. (В будущем вернётся поддержка старых OC).
 
 <img width="1366" height="768" alt="image" src="https://raw.githubusercontent.com/koxauuu/DefenderKiller/refs/heads/main/screenshots/scr2.png" />
 
@@ -22,7 +22,7 @@ Last version DK - 16.1
 > [!WARNING]
 > Version on forum Win 10 Tweaker old (15.4), она не является последней версией, поэтому советуем download actual on GitHub.
 
-### Возможности DefenderKiller 
+### Functions DefenderKiller 
 - Delete Windows Defender
 - Create copy (backup) of Windows Defender 
 - Проверить состояние папок и файлов
@@ -34,7 +34,7 @@ Last version DK - 16.1
 - Отключение / Включение Брандмауэра Защитника Windows 
 - Отключение / Включение UAC (Контроль учетных записей)
 
-### Plan on DefenderKiller 
+### Plan DefenderKiller 
 - Add пункт о Meltdown, Spectre, Downfall
 - Улучшить интерфейс, провести другую сортировку
 - Добавить поддержку старых OC 
@@ -64,7 +64,7 @@ Last version DK - 16.1
 
 
 
-### Меценаты project DefenderKiller 
+### Contributers of project DefenderKiller 
 Разработчики:
 -  Vlado ---> Основной вклад и логика DK, Helper program
 -  Eject ---> Support в разработке, Unlocker program
