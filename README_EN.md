@@ -1,13 +1,13 @@
 <strong>DefenderKiller</strong> (<strong>DK</strong>) - powerful utility for remove/recovery Windows Defender.
 
 > [!TIP]
-> DK provides users with powerful functionality but assumes no responsibility for your actions; please exercise caution when performing any operations using the utility.
+> DK provides users with powerful functionality but assumes no responsibility for your actions, please exercise caution when performing any operations using the utility.
 > 
 > For new users are recommended to watch tutorial video on YouTube. [link](https://youtu.be/telq3iBkybk)
 
 > [!WARNING]
 > DK have support operation system Windows 10/11 64-bit, but don't support 32-bit OC,
-> and start with version DK 16.0 not supported Windows 7. (В будущем вернётся поддержка старых OC).
+> and start with version DK 16.0 not supported Windows 7. (Support for older OS will return in the future).
 
 <img width="1366" height="768" alt="image" src="https://raw.githubusercontent.com/koxauuu/DefenderKiller/refs/heads/main/screenshots/scr2.png" />
 
@@ -25,9 +25,9 @@ Last version DK - 16.1
 ### Functions DefenderKiller 
 - Delete Windows Defender
 - Create copy (backup) of Windows Defender 
-- Проверить состояние папок и файлов
-- Восстановить защитник из копии (бэкапа)
-- Удалить Безопасность Windows (Иконка в пуске) (Может не работать на 26H2)
+- Check the status of folders and files
+- Recovery Defender from copy (backup)
+- Delete Security of Windows (Icon in Start) (Maybe not work on 26H2)
 - Скрыть Раздел Безопасность в Параметрах
 - Отключить VBS (Безопасность на основе виртуализации)
 - Удалить папки Защитника из хранилища WinSxS
@@ -43,14 +43,14 @@ Last version DK - 16.1
 - Add пункт о плашке о небезопасных файлов из интернета
 - Add icon DK
 - Add another languages
-- Провести оптимизацию
-- и бла бла бла
+- Do optimization 
+- and bla bla bla
 
 > [!IMPORTANT]
-> Не все функции из плана могут быть добавлены, из-за банальной лени или ограничений со стороны Windows,
-> но я по крайней мере постараюсь их реализовать.
+> Not all the planned features might make it in—whether due to sheer laziness or Windows-imposed limitations,
+> but I will at least try to implement them.
 > 
-> Цените!
+> Appreciate it!
 
 
 
@@ -65,13 +65,13 @@ Last version DK - 16.1
 
 
 ### Contributers of project DefenderKiller 
-Разработчики:
--  Vlado ---> Основной вклад и логика DK, Helper program
--  Eject ---> Support в разработке, Unlocker program
--  koxauuu ---> All new нововведения 
+Developer's:
+-  Vlado ---> Key contribution and logic DK, Helper program
+-  Eject ---> Support in develop, Unlocker program
+-  koxauuu ---> All new features
 
 Youtuber's:
-- MartyFiles ---> Неоценимый вклад в популяризацию DK
+- MartyFiles ---> Invaluable contribution to popularization DK
 
 And:
 - All users of DefenderKiller ---> ❤️
