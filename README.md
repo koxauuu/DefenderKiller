@@ -1,4 +1,4 @@
-README: [RU](https://github.com/koxauuu/DefenderKiller/blob/main/README.md) [EN](https://github.com/koxauuu/DefenderKiller/blob/main/README_EN.md)
+README(special for alufena0): [RU](https://github.com/koxauuu/DefenderKiller/blob/main/README.md) [EN](https://github.com/koxauuu/DefenderKiller/blob/main/README_EN.md)
 
 
 # DefenderKiller
