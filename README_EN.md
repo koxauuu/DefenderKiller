@@ -1,4 +1,4 @@
-README: [RU]() [EN]()
+README: [RU](https://github.com/koxauuu/DefenderKiller/blob/main/README.md) [EN](https://github.com/koxauuu/DefenderKiller/blob/main/README_EN.md)
 
 <strong>DefenderKiller</strong> (<strong>DK</strong>) - powerful utility for remove/recovery Windows Defender.
 
