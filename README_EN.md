@@ -6,8 +6,8 @@
 > For new users are recommended to watch tutorial video on YouTube. [link](https://youtu.be/telq3iBkybk)
 
 > [!WARNING]
-> DK имеет поддержку операционных систем Windows 10/11 64-бит, но не поддерживает 32-битные OC,
-> а начиная с версии DK 16.0 не поддерживает и Windows 7. (В будущем вернётся поддержка старых OC).
+> DK have support операционных систем Windows 10/11 64-bit, но не поддерживает 32-bit OC,
+> а start with version DK 16.0 not supported and Windows 7. (В будущем вернётся поддержка старых OC).
 
 <img width="1366" height="768" alt="image" src="https://raw.githubusercontent.com/koxauuu/DefenderKiller/refs/heads/main/screenshots/scr2.png" />
 
@@ -20,10 +20,10 @@
 Last version DK - 16.1
 
 > [!WARNING]
-> Версия на форуме Win 10 Tweaker устарела (15.4), она не является последней версией, поэтому советуем скачать актуальную с GitHub.
+> Version on forum Win 10 Tweaker old (15.4), она не является последней версией, поэтому советуем скачать актуальную с GitHub.
 
 ### Возможности DefenderKiller 
-- Удалить Windows Defender
+- Delete Windows Defender
 - Создать копию (бэкап) Windows Defender 
 - Проверить состояние папок и файлов
 - Восстановить защитник из копии (бэкапа)
