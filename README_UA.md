@@ -1,5 +1,5 @@
-README (special for alufena0): [RU](https://github.com/koxauuu/DefenderKiller/blob/main/README.md) [EN](https://github.com/koxauuu/DefenderKiller/blob/main/README_EN.md)
-
+README: [RU](https://github.com/koxauuu/DefenderKiller/blob/main/README.md) [EN](https://github.com/koxauuu/DefenderKiller/blob/main/README_EN.md) [UA](https://github.com/koxauuu/DefenderKiller/blob/main/README_UA.md)
+ 
 
 # DefenderKiller
 <strong>DefenderKiller</strong> (сокр. <strong>DK</strong>) - потужна утиліта для видалення/відновлення Windows Defender (Захисник Windows).
@@ -17,40 +17,40 @@ README (special for alufena0): [RU](https://github.com/koxauuu/DefenderKiller/bl
 
 <img width="1366" height="768" alt="image" src="https://raw.githubusercontent.com/koxauuu/DefenderKiller/refs/heads/main/screenshots/scr2.png" />
 
-### Скачать Последнюю версию 
+### Завантажити останню версію
 
-[GitHub Релизы](https://github.com/koxauuu/DefenderKiller/releases/)
+[GitHub Релiзы](https://github.com/koxauuu/DefenderKiller/releases/)
 
 [Форум Win 10 Tweaker](https://win10tweaker.ru/forum/topic/defenderkiller)
 
-Последняя версия DK - 16.1
+Остання версія DK - 16.1
 
 > [!WARNING]
 > Версія на форумі Win 10 Tweaker застаріла (15.4), вона не є останньою версією, тому рекомендуємо завантажити актуальну з GitHub.
 > 
-### Возможности DefenderKiller 
-- Удалить Windows Defender
-- Создать копию (бэкап) Windows Defender 
-- Проверить состояние папок и файлов
-- Восстановить защитник из копии (бэкапа)
-- Удалить Безопасность Windows (Иконка в пуске) (Может не работать на 26H2)
-- Скрыть Раздел Безопасность в Параметрах
-- Отключить VBS (Безопасность на основе виртуализации)
-- Удалить папки Защитника из хранилища WinSxS
-- Отключение / Включение Брандмауэра Защитника Windows 
-- Отключение / Включение UAC (Контроль учетных записей)
+### Можливості DefenderKiller 
+- Видалити Windows Defender
+- Створити копію (бекап) Windows Defender 
+- Перевірити стан папок та файлів
+- Відновити захисник із копії (бекапу)
+- Видалити Безпека Windows (Іконка у пуску) (Може не працювати на 26H2)
+- Сховати Розділ Безпека в Параметрах
+- Вимкнути VBS (Безпека на основі віртуалізації)
+- Видалити папки Захисника зі сховища WinSxS
+- Вимкнення / Увімкнення Брандмауера Windows Defender 
+- Вимкнення/Увімкнення UAC (Контроль облікових записів)
 
-### Планы по DefenderKiller 
-- Добавить пункт о Meltdown, Spectre, Downfall
-- Улучшить интерфейс, провести другую сортировку
-- Добавить поддержку старых OC 
-- Исправить баг в пункте "Удалить Безопасность Windows (Иконка в пуске) (Может не работать на 26H2)"
-- Исправить баг в пункте "Удалить Windows Defender"
-- Добавить пункт о плашке о небезопасных файлов из интернета
-- Добавить иконку DK
-- Добавить другие языки
-- Провести оптимизацию
-- и бла бла бла
+### Плани по DefenderKiller 
+- Додати пункт про Meltdown, Spectre, Downfall
+- Поліпшити інтерфейс, провести інше сортування
+- Додати підтримку старих OC 
+- Виправити баг у пункті "Видалити Безпеку Windows (Іконка в пуску) (Може не працювати на 26H2)"
+- Виправити баг у пункті "Видалити Windows Defender"
+- Додати пункт про плашку про небезпечні файли з інтернету
+- Додати іконку DK
+- Додати інші мови
+- Провести оптимізацію
+- бла бла бла
 
 > [!IMPORTANT]
 > Не всі функції з плану можуть бути додані через банальну лінощі або обмеження з боку Windows,
@@ -70,15 +70,15 @@ README (special for alufena0): [RU](https://github.com/koxauuu/DefenderKiller/bl
 
 
 
-### Меценаты проекта DefenderKiller 
-Разработчики:
--  Vlado ---> Основной вклад и логика DK, программа Helper
--  Eject ---> Помощь в разработке, программа Unlocker
--  koxauuu ---> Все новые нововведения 
+### Меценати проекту DefenderKiller 
+Розробники:
+- Vlado ---> Основний внесок та логіка DK, програма Helper
+- Eject ---> Допомога в розробці, програма Unlocker
+- koxauuu ---> Нові нововведення 
 
-Ютуберы:
-- MartyFiles ---> Неоценимый вклад в популяризацию DK
+Ютубери:
+- MartyFiles ---> Неоціненний внесок у популяризацію DK
 
-А также:
-- Все пользователи DefenderKiller ---> ❤️
-
+А також:
+- Всі користувачі DefenderKiller ---> ❤️
+  
