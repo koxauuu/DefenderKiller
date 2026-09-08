@@ -3,6 +3,12 @@ README: [RU](https://github.com/koxauuu/DefenderKiller/blob/main/README.md) [EN]
 # DefenderKiller
 <strong>DefenderKiller</strong> (<strong>DK</strong>) - powerful utility for remove/recovery Windows Defender.
 
+> [!IMPORTANT]
+> On the Win 10 Tweaker forum, people were looking for the latest version of DefenderKiller and found this repository, so that there would be no questions, I write here right away: Yes, it refers to the original DefenderKiller from Vlado. This is a continuation of the original project, you can safely download any version without new edits (15.4, 16.0), where I did not change at all. If something confuses you, feel free to use them.
+>
+> Btw, thanks to all the users for their activity, I am very pleased)
+>
+
 > [!TIP]
 > DK provides users with powerful functionality but assumes no responsibility for your actions, please exercise caution when performing any operations using the utility.
 > 
@@ -53,19 +59,6 @@ Latest version DK - 16.1
 > Some planned features might be missing due to laziness or Windows limitations,
 >  but I'll do my best to add them.
 > 
-> Appreciate it!
-
-
-
-
-
-
-
-
-
-
-
-
 
 ### Contributers of project DefenderKiller 
 Developers:
