@@ -10,17 +10,17 @@ README: [RU](https://github.com/koxauuu/DefenderKiller/blob/main/README.md) [EN]
 
 > [!WARNING]
 > DK have support operation system Windows 10/11 64-bit, but don't support 32-bit OC,
-> and start with version DK 16.0 not supported Windows 7. (Support for older OS will return in the future).
+> also starting with version DK 16.0 not supported Windows 7. (Support for older OS will return in the future).
 
 <img width="1366" height="768" alt="image" src="https://raw.githubusercontent.com/koxauuu/DefenderKiller/refs/heads/main/screenshots/scr2.png" />
 
-### Download Last version
+### Download Latest version
 
-[GitHub Realise](https://github.com/koxauuu/DefenderKiller/releases/)
+[GitHub Release](https://github.com/koxauuu/DefenderKiller/releases/)
 
 [Forum Win 10 Tweaker](https://win10tweaker.ru/forum/topic/defenderkiller)
 
-Last version DK - 16.1
+Latest version DK - 16.1
 
 > [!WARNING]
 > Version on forum Win 10 Tweaker outdated (15.4), It is not the latest version, so we recommend download actual on GitHub.
@@ -40,7 +40,7 @@ Last version DK - 16.1
 ### Plan DefenderKiller 
 - Add point Meltdown, Spectre, Downfall
 - Make Gui, carry out sorting
-- Add support for older OC 
+- Add support for older OC
 - Fix bug in point "Delete Security of Windows (Icon in Start) (Maybe not work on 26H2)"
 - Fix bug in point "Delete Windows Defender"
 - Add point to disable the banner regarding unsafe files from the Internet
@@ -50,8 +50,8 @@ Last version DK - 16.1
 - and bla bla bla
 
 > [!IMPORTANT]
-> Not all the planned features might make it in—whether due to sheer laziness or Windows-imposed limitations,
-> but I will at least try to implement them.
+> Some planned features might be missing due to laziness or Windows limitations,
+>  but I'll do my best to add them.
 > 
 > Appreciate it!
 
@@ -68,13 +68,13 @@ Last version DK - 16.1
 
 
 ### Contributers of project DefenderKiller 
-Developer's:
+Developers:
 -  Vlado ---> Key contribution and logic DK, Helper program
 -  Eject ---> Support in develop, Unlocker program
 -  koxauuu ---> All new features
 
-Youtuber's:
-- MartyFiles ---> Invaluable contribution to popularization DK
+Youtubers:
+- MartyFiles ---> Invaluable contribution to promoted DK 
 
 And:
 - All users of DefenderKiller ---> ❤️
