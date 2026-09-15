@@ -1,12 +1,7 @@
 README: [RU](https://github.com/koxauuu/DefenderKiller/blob/main/README.md) [EN](https://github.com/koxauuu/DefenderKiller/blob/main/README_EN.md) [UA](https://github.com/koxauuu/DefenderKiller/blob/main/README_UA.md)
 
-<div align="center">
-  
-# DefenderKiller
-</a>
-</div>
-<br>
 
+# DefenderKiller
 <strong>DefenderKiller</strong> (<strong>DK</strong>) - powerful utility for remove/recovery Windows Defender.
 
 <img width="1366" height="768" alt="image" src="https://raw.githubusercontent.com/koxauuu/DefenderKiller/refs/heads/main/screenshots/scr2.png" />
