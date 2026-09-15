@@ -3,12 +3,12 @@ README: [RU](https://github.com/koxauuu/DefenderKiller/blob/main/README.md) [EN]
 <div align="center">
   
 # DefenderKiller
-<strong>DefenderKiller</strong> (<strong>DK</strong>) - powerful utility for remove/recovery Windows Defender.
 </a>
 </div>
 <br>
 
----
+<strong>DefenderKiller</strong> (<strong>DK</strong>) - powerful utility for remove/recovery Windows Defender.
+
 <img width="1366" height="768" alt="image" src="https://raw.githubusercontent.com/koxauuu/DefenderKiller/refs/heads/main/screenshots/scr2.png" />
 
 
