@@ -29,7 +29,6 @@ Latest version DK - 16.1
 > [!TIP]
 > DK provides users with powerful functionality but assumes no responsibility for your actions, please exercise caution when performing any operations using the utility.
 > 
-> For new users are recommended to watch tutorial video on YouTube. [link](https://youtu.be/telq3iBkybk)
 
 > [!WARNING]
 > DK have support operation system Windows 10/11 64-bit, but don't support 32-bit OC,
