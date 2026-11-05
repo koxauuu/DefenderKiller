@@ -1,5 +1,8 @@
-README: [RU](https://github.com/koxauuu/DefenderKiller/blob/main/README.md) [EN](https://github.com/koxauuu/DefenderKiller/blob/main/README_EN.md) [UA](https://github.com/koxauuu/DefenderKiller/blob/main/README_UA.md)
+<div align="center">
 
+**README: [🇷🇺 Русский](https://github.com/koxauuu/DefenderKiller/blob/main/README.md) • [🇬🇧 English](https://github.com/koxauuu/DefenderKiller/blob/main/README_EN.md) • [🇺🇦 Українська](https://github.com/koxauuu/DefenderKiller/blob/main/README_UA.md)**
+
+</div>
 
 # DefenderKiller
 <strong>DefenderKiller</strong> (<strong>DK</strong>) - powerful utility for remove/recovery Windows Defender.
