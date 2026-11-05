@@ -2,16 +2,18 @@
 
 **README: [🇷🇺 Русский](https://github.com/koxauuu/DefenderKiller/blob/main/README.md) • [🇬🇧 English](https://github.com/koxauuu/DefenderKiller/blob/main/README_EN.md) • [🇺🇦 Українська](https://github.com/koxauuu/DefenderKiller/blob/main/README_UA.md)**
 
-</div>
+<p <align="center"><img width="128" height="128" src="https://raw.githubusercontent.com/koxauuu/DefenderKiller/refs/heads/main/screenshots/icon.ico" alt="LOGO"></p>
 
-# DefenderKiller
-<strong>DefenderKiller</strong> (сокр. <strong>DK</strong>) - мощная утилита для удаления/восстановления Windows Defender (Защитник Windows).
+# DefenderKiller (DK)
+<strong>DefenderKiller</strong> (сокр. <strong>DK</strong>) - мощная утилита с открытым исходным кодом для удаления/восстановления Windows Defender (Защитник Windows).
+
+</div>
 
 <img width="1366" height="768" alt="image" src="https://raw.githubusercontent.com/koxauuu/DefenderKiller/refs/heads/main/screenshots/scr2.png" />
 
 
 
-### Скачать Последнюю версию 
+## Скачать Последнюю версию 
 
 [GitHub Релизы](https://github.com/koxauuu/DefenderKiller/releases/)
 
