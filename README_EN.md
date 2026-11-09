@@ -4,7 +4,7 @@
 
 <p <align="center"><img width="128" height="128" src="https://raw.githubusercontent.com/koxauuu/DefenderKiller/refs/heads/main/screenshots/icon.ico" alt="LOGO"></p>
 
-# DefenderKiller
+# DefenderKiller (DK)
 <strong>DefenderKiller</strong> (<strong>DK</strong>) - powerful utility with open source code for remove/recovery Windows Defender.
 
 </div>
