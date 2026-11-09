@@ -5,14 +5,14 @@
 <p <align="center"><img width="128" height="128" src="https://raw.githubusercontent.com/koxauuu/DefenderKiller/refs/heads/main/screenshots/icon.ico" alt="LOGO"></p>
 
 
-# DefenderKiller
+# DefenderKiller (DK)
 <strong>DefenderKiller</strong> (сокр. <strong>DK</strong>) - потужна утиліта з відкритим вихідним кодом для видалення/відновлення Windows Defender (Захисник Windows).
 
 </div>
 
 <img width="1366" height="768" alt="image" src="https://raw.githubusercontent.com/koxauuu/DefenderKiller/refs/heads/main/screenshots/scr2.png" />
 
-### Завантажити останню версію
+## Завантажити останню версію
 
 [GitHub Релiзы](https://github.com/koxauuu/DefenderKiller/releases/)
 
